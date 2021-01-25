@@ -2,7 +2,7 @@ body {
     margin: 0px;
 }
 #header {
-    background: #325232;
+    background: #0892e2;
     color: white;
     font: arial;
     font-size: 16px;
@@ -121,7 +121,7 @@ a.button:active {
 }
 #aboutus {
     margin: 8px;
-    color: #96c56f;
+    color: #c76060;
     font: 16px arial;
     text-align: center;
 }

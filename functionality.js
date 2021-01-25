@@ -16,7 +16,7 @@ window.onload = function() {
     	var p = document.createElement('p');
     	p.id = 'aboutus';
     	container.appendChild(p);
-    	var text = document.createTextNode("This tutorial is made possible through Eqela Developer Network");
+    	var text = document.createTextNode("Note Hero is an online note taking app that stores all of your notes in your local storage. This means, if you clear your browsing data (cookies and cache), you will lose any notes you would have made with Note Hero. Hence, Note Hero is only an excellent tool for making temporary notes. This is project is made by TheAwesomeCoder05.");
     	p.appendChild(text);
 	var home = document.getElementById('container').innerHTML;
 	var controls = document.getElementById('controls').innerHTML;
